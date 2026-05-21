@@ -221,10 +221,11 @@ Netflix-Analisis/
 │   ├── Overview.png
 │   ├── Single_Title_View.png
 │
-├── Dataset/
+├── Data/
+│   ├── Clean Data
 │   ├── netflix_titles.csv
 │
-├── Excel/
-│   ├── netflix_analysis.xlsx
+├── Power_BI/
+│   ├── netflix-dashboard.pbix
 │
 ├── README.md
