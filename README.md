@@ -228,4 +228,7 @@ Netflix-Analisis/
 ├── Power_BI/
 │   ├── netflix-dashboard.pbix
 │
+├── ERD/
+│   ├── Netflix_ER Diagram.drawio
+│
 ├── README.md
